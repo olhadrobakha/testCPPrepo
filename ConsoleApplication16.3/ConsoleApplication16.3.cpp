@@ -7,6 +7,7 @@ void NewFunc() {
 void SecondFunc() {
 	cout << "It's already second func!" << endl;
 }
+//add a multiple func
 void main()
 {
 	cout << "Hello World!\n";
