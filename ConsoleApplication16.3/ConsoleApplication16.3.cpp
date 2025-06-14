@@ -4,6 +4,7 @@ using namespace std;
 void NewFunc() {
 	cout << "Hello, it's my new func!";
 }
+//add some information
 void SecondFunc() {
 	cout << "It's already second func!" << endl;
 }
